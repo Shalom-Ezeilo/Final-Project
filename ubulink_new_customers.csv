@@ -1,0 +1,601 @@
+customer_id,signup_date,city,gender,age,plan,contract,payment_method,monthly_charge,data_usage_gb,tenure_months,outages_last_90d,support_calls_90d,late_payments_12m
+UBL-11715,2024-10-11,Onitsha,Male,,Premium,Monthly,USSD,"N35,100",130.5,23,5,3,0
+UBL-11499,23 Aug 2026,Enugu,Male,32,Basic,Monthly,,"N12,100",14.0,1,1,1,1
+UBL-12471,2026-03-23,Enugu,Female,51,Standard,Monthly,Bank Transfer,23000,59.3,6,1,2,0
+UBL-10723,2024-07-09,Onitsha,Male,30,Standard,Annual,USSD,22850,,26,2,3,0
+UBL-11410,05/06/2024,Nnewi,Male,50,Standard,Monthly,Bank Transfer,"N23,200",114.5,27,4,2,1
+UBL-12285,2025-03-19,Asaba,Female,41,Premium,Annual,USSD,"N36,000",116.7,18,0,3,0
+UBL-10182,2025-07-20,Awka,Male,23,Standard,Monthly,Bank Transfer,"N21,250",202.3,14,2,1,0
+UBL-11408,12/02/2025,Onitsha,Female,47,Basic,Annual,Bank Transfer,13350,38.2,19,3,1,0
+UBL-11485,18 Jul 2026, Onitsha ,Male,19,Basic,Monthly,Card,12550,74.6,2,4,5,0
+UBL-10397,05 Jul 2023,Awka,Male,24,Basic,Annual,Card,12300,31.9,38,1,1,1
+UBL-10082,2024-12-13,Nnewi,Female,17,Basic,Monthly,Card,11900,30.1,21,1,2,0
+UBL-11714,2023-07-10,Awka,Female,29,Standard,Monthly,POS,"N23,900",81.5,38,3,5,2
+UBL-12456,2025-08-19,Nnewi,Male,30,Premium,Quarterly,USSD,"N36,450",314.9,13,4,0,0
+UBL-11079,2026-08-09,Asaba,Female,30,Basic,Monthly,POS,"N12,600",37.2,1,1,0,2
+UBL-11783,07/06/2026,Awka,Female,17,Standard,Quarterly,,"N20,500",161.0,3,1,0,2
+UBL-11533,2026-06-28,Enugu,Female,42,Standard,Annual,Bank Transfer,20400,197.2,3,2,0,1
+UBL-10717,15/02/2026,Onitsha,male,23,Basic,Monthly,Bank Transfer,12200,78.7,7,6,9,1
+UBL-10392,16/05/2025,Enugu,Female,17,Basic,Monthly,Bank Transfer,"N12,400",51.0,16,0,1,1
+UBL-10201,07/12/2024,Onitsha,Female,37,Standard,Quarterly,USSD,"N22,600",53.7,21,2,0,3
+UBL-10551,13 Feb 2025,ASABA,Female,28,Basic,Quarterly,Bank Transfer,"N13,500",62.6,19,0,0,1
+UBL-10632,2025-08-28,Asaba,Male,26,Standard,Monthly,Card,21350,85.7,13,2,3,0
+UBL-12916,2022-04-27,Nnewi,Male,38,Standard,Annual,Card,23700,93.8,53,0,1,1
+UBL-12425,21/04/2024,Enugu,Female,20,Basic,Quarterly,Bank Transfer,"N11,400",68.8,29,0,1,2
+UBL-13207,25/03/2025,enugu,Male,24,Standard,Annual,Bank Transfer,"N21,350",111.5,18,2,4,0
+UBL-11663,2026-03-09,Awka,Female,38,Basic,Quarterly,USSD,11550,79.6,6,2,3,0
+UBL-12588,2025-04-30,Awka,Female,24,Standard,Quarterly,Card,20500,118.7,17,0,0,0
+UBL-13164,2024-10-29,Awka,Male,35,Basic,Monthly,Bank Transfer,"N11,950",46.5,23,2,1,0
+UBL-12045,09/09/2024,Nnewi,Female,36,Basic,Monthly,Bank Transfer,13250,47.3,24,0,0,0
+UBL-12113,27/03/2026,Awka,Female,33,Standard,Monthly,Card,19400,105.6,6,1,1,0
+UBL-10416,04/12/2025,Onitsha,male,44,Basic,Monthly,,"N12,100",25.4,9,4,4,0
+UBL-11248,2025-10-16,awka,Female,36,Basic,Monthly,Card,11750,114.2,11,1,0,1
+UBL-12931,13/04/2026,Onitsha,Male,17,Basic,Monthly,Bank Transfer,11850,43.9,5,2,0,1
+UBL-10992,2025-06-04,onitsha,Female,24,Basic,Annual,POS,13000,,15,2,1,0
+UBL-12441,22/10/2024,Nnewi,Female,30,Basic,Annual,Card,11100,15.9,23,1,0,0
+UBL-12792,2026-01-24,Awka,Male,32,Standard,Monthly,USSD,"N23,650",261.3,8,2,3,2
+UBL-12002,2024-09-16,Onitsha,Male,31,standard,Annual,Card,21050,140.2,24,1,2,0
+UBL-10358,2026-02-11,Onitsha,Female,29,Basic,Annual,USSD,12200,52.0,7,4,2,2
+UBL-12648,2023-01-27,AWKA,Male,26,Basic,Monthly,Bank Transfer,11250,96.7,44,2,3,1
+UBL-10345,07 Oct 2024,Awka,Male,41,Standard,Annual,Bank Transfer,"N20,550",160.4,23,0,0,1
+UBL-10683,2025-12-22,Nnewi,Male,39,Standard,Quarterly,Card,19250,109.1,9,1,2,1
+UBL-10972,04/09/2022,Onitsha,Female,,Standard,Monthly,Card,22450,27.5,48,4,1,0
+UBL-10383,2025-01-13,AWKA,Female,32,Standard,Monthly,Card,23600,104.6,20,2,3,0
+UBL-13523,11/10/2025,Onitsha,Male,32,Basic,Monthly,Bank Transfer,"N12,800",41.6,11,2,3,2
+UBL-10430,2024-07-03,Nnewi,Male,26,Basic,Monthly,Bank Transfer,"N13,650",94.7,26,2,2,0
+UBL-13125,03/11/2023,Nnewi,Female,36,Basic,Monthly,Bank Transfer,12450,89.6,34,2,1,1
+UBL-12849,15/01/2025,Awka,Female,48,Premium,Monthly,USSD,39200,453.5,20,2,0,1
+UBL-11105,2024-02-29,Onitsha,Female,31,Basic,Monthly,USSD,12750,34.4,31,1,0,0
+UBL-10007,19/09/2025,Onitsha,Female,37,basic,Quarterly,USSD,12900,40.0,12,1,0,1
+UBL-11932,13/04/2026,Onitsha,Male,37,Standard,Quarterly,Card,21250,103.0,5,3,3,0
+UBL-13175,27/02/2024,Awka,Male,33,Basic,Monthly,Bank Transfer,"N11,300",56.2,31,0,3,0
+UBL-13238,2025-06-25,Asaba,Female,42,Standard,Monthly,Card,22350,284.7,15,1,4,1
+UBL-10638,2025-03-11,Enugu,Female,28,Basic,Monthly,USSD,11700,80.3,18,1,2,0
+UBL-11756,2025-11-08,Onitsha,Male,26,standard,Monthly,Card,22250,58.1,10,1,4,0
+UBL-10334,2025-03-11,Nnewi,Male,,Standard,Monthly,Bank Transfer,"N20,900",182.8,18,2,2,1
+UBL-12167,2024-12-03,enugu,Male,17,Standard,Quarterly,,20900,119.2,21,2,1,0
+UBL-12304,2025-03-04,Awka,Female,39,Basic,Monthly,POS,"N11,500",70.5,18,1,2,1
+UBL-12993,2026-01-16,Awka,Male,28,Basic,Annual,Bank Transfer,11150,89.2,8,1,1,1
+UBL-10837,07/06/2024, Onitsha ,Male,27,Premium,Monthly,Bank Transfer,"N41,250",251.0,27,4,3,0
+UBL-11565,15 Sep 2024,Enugu,Male,37,Premium,Monthly,Card,38900,239.6,24,0,0,1
+UBL-10323,2025-08-03,Awka,Female,29,basic,Monthly,Card,"N11,950",76.9,13,0,2,0
+UBL-11722,2024-11-24,Nnewi,Female,33,Basic,Quarterly,Card,12050,110.5,22,1,0,0
+UBL-13329,2025-04-18,Onitsha,Male,43,Basic,Monthly,Bank Transfer,"N12,950",29.4,17,2,1,1
+UBL-13598,22/12/2025,Asaba,Male,18,Standard,Monthly,Bank Transfer,19200,78.0,9,1,0,1
+UBL-11838,10/05/2024,Awka,Male,48,Premium,Annual,Card,41950,134.2,28,1,2,0
+UBL-12947,2025-11-27,Awka,Male,31,Basic,Annual,Bank Transfer,"N12,900",81.4,10,2,1,0
+UBL-11672,04/05/2025,nnewi,Male,30,Basic,Quarterly,Bank Transfer,12600,,16,2,4,1
+UBL-12520,2023-05-19,Awka,Male,28,standard,Monthly,Bank Transfer,"N20,900",61.7,40,2,0,2
+UBL-13506,06/08/2025,Onitsha,Female,34,Standard,Monthly,USSD,"N22,800",173.2,13,3,0,0
+UBL-13286,26/03/2026,Nnewi,Female,20,Standard,Monthly,USSD,"N22,350",96.9,6,5,1,2
+UBL-12922,2025-05-20,Nnewi,Male,30,Standard,Quarterly,USSD,22450,217.8,16,0,2,1
+UBL-12555,03 Oct 2023,Enugu,Female,48,Standard,Quarterly,POS,24950,86.1,35,1,1,2
+UBL-12453,05/05/2025,awka,Female,20,Premium,Monthly,USSD,"N42,250",363.1,16,0,3,1
+UBL-11428,2023-08-23,Awka,Male,24,Basic,Quarterly,Bank Transfer,"N12,250",,37,2,2,2
+UBL-12319,2024-03-29,Onitsha,Female,35,Basic,Monthly,Bank Transfer,12650,,30,1,0,1
+UBL-10758,20/08/2025, Onitsha ,Female,26,Standard,Monthly,Card,19000,179.5,13,2,2,2
+UBL-10807,11/02/2025, Onitsha ,Male,37,Standard,Monthly,Card,21800,88.9,19,5,2,1
+UBL-13154,29/06/2025,Nnewi,Male,27,Basic,Monthly,USSD,12450,54.4,15,4,1,0
+UBL-12569,05 Apr 2026,Onitsha,Female,42,Basic,Quarterly,USSD,12050,,5,3,0,2
+UBL-12744,2021-07-04,Enugu,Male,25,Basic,Monthly,Bank Transfer,"N11,850",124.3,62,1,0,3
+UBL-10317,24 Sep 2020,Enugu,Male,17,Standard,Annual,USSD,"N19,350",166.2,72,1,0,0
+UBL-12822,12/05/2025,Nnewi,Female,36,Basic,Quarterly,Bank Transfer,11350,82.7,16,3,4,0
+UBL-10529,11 Dec 2021,Enugu,Female,33,Basic,Monthly,USSD,"N11,900",70.3,57,1,0,0
+UBL-11762,2023-09-05,Asaba,M,40,Basic,Quarterly,Bank Transfer,12200,36.4,36,1,0,1
+UBL-10269,2026-04-25,Enugu,Female,17,Standard,Quarterly,USSD,21450,114.6,5,2,0,0
+UBL-12010,2023-09-11,Onitsha,female,51,Basic,Annual,USSD,11750,57.7,36,2,1,1
+UBL-10041,2026-02-15,AWKA,Male,33,Standard,Monthly,Card,"N19,900",185.4,7,0,1,0
+UBL-11356,22 Jun 2025,Awka,Female,,Basic,Monthly,Bank Transfer,"N11,500",103.1,15,0,0,0
+UBL-11938,14/04/2026,Onitsha,Male,24,Standard,Monthly,USSD,23550,145.0,5,0,1,0
+UBL-11529,2024-07-13,awka,Female,40,Basic,Quarterly,,"N13,250",66.9,26,0,0,1
+UBL-10152,2025-12-03,Enugu,Male,45,Premium,Monthly,Bank Transfer,"N38,350",433.5,9,2,0,0
+UBL-12966,2025-12-16,Asaba,Male,43,Standard,Annual,Bank Transfer,22900,94.8,9,1,2,0
+UBL-10434,2026-03-24,Asaba,Female,25,Premium,Monthly,Card,36050,400.4,6,0,0,0
+UBL-10635,2025-07-30, Awka ,Female,18,Standard,Monthly,Card,22100,277.3,14,0,0,0
+UBL-13250,23/06/2026,Awka,Female,,Standard,Monthly,Card,20250,123.4,3,4,2,0
+UBL-11599,14/04/2024,Enugu,Female,17,Basic,Monthly,,"N12,650",,29,1,2,0
+UBL-12714,2024-08-25, Onitsha ,Female,37,Standard,Monthly,Bank Transfer,"N20,350",69.6,25,1,3,0
+UBL-12052,2023-03-17,Awka,Female,27,Standard,Quarterly,USSD,21450,148.0,42,0,2,1
+UBL-12270,2025-09-08,Onitsha,Female,19,Basic,Monthly,Card,"N12,800",64.3,12,1,0,0
+UBL-11584,2025-12-09,Asaba,Female,26,Premium,Monthly,Card,37550,171.7,9,2,1,1
+UBL-12434,08/03/2024,Onitsha,Female,28,Standard,Quarterly,Bank Transfer,20250,80.9,30,2,3,1
+UBL-12211,27/04/2026,Awka,Female,38,Basic,Quarterly,Bank Transfer,11400,40.9,5,2,1,1
+UBL-12832,02/02/2025,Nnewi,Male,43,Premium,Monthly,Bank Transfer,"N41,300",435.6,19,1,2,0
+UBL-12616,2022-06-13,Onitsha,Female,39,Standard,Quarterly,USSD,21900,146.6,51,1,1,0
+UBL-13435,2025-06-06,Onitsha,Male,22,Standard,Monthly,POS,22450,152.6,15,3,6,0
+UBL-13476,2026-03-21,Nnewi,Female,37,Basic,Monthly,Bank Transfer,12400,46.4,6,1,0,0
+UBL-11461,16/04/2025,Enugu,Female,33,Premium,Monthly,Card,37650,292.9,17,1,1,1
+UBL-12977,2026-06-06,Onitsha,Male,19,Basic,Annual,POS,12550,63.7,3,2,2,1
+UBL-11673,2026-02-27,Onitsha,Male,42,Premium,Annual,Bank Transfer,36750,223.1,7,6,4,0
+UBL-10906,2023-02-22,Onitsha,Female,31,Standard,Monthly,Card,21200,96.3,43,4,2,0
+UBL-12363,2023-05-24,nnewi,Male,43,Basic,Quarterly,Card,"N10,650",,40,2,2,0
+UBL-10799,2022-12-11,Awka,Male,35,Standard,Monthly,POS,"N21,100",105.6,45,2,2,2
+UBL-10598,20/11/2025,Awka,Female,20,Standard,Quarterly,Bank Transfer,21000,53.1,10,0,0,0
+UBL-12317,19/07/2026,Enugu,Female,37,Standard,Annual,Card,"N23,650",213.0,2,1,0,0
+UBL-11055,2024-09-21,ONITSHA,Female,,Basic,Quarterly,Card,12850,47.5,24,5,4,0
+UBL-10195,19/02/2026,Onitsha,Male,29,Standard,Quarterly,Bank Transfer,"N21,600",,7,4,2,0
+UBL-12892,10 Sep 2025,nnewi,Male,26,Standard,Annual,Bank Transfer,25050,40.6,12,1,1,0
+UBL-12264,26/06/2025,Enugu,Female,36,Basic,Monthly,POS,12350,73.2,15,2,1,0
+UBL-11350,12/06/2025,Enugu,Female,36,Standard,Annual,USSD,"N22,600",86.8,15,1,0,2
+UBL-10773,2025-09-23,NNEWI,Female,32,Basic,Annual,USSD,13750,41.9,12,1,1,0
+UBL-13510,2026-06-29,asaba,Male,29,Standard,Monthly,Bank Transfer,21350,206.9,3,0,1,0
+UBL-11263,2023-08-26,Enugu,Male,26,Premium,Monthly,Bank Transfer,38100,139.0,37,2,0,0
+UBL-11849,2025-12-30,Enugu,Female,,Basic,Monthly,USSD,"N12,400",62.2,9,0,1,0
+UBL-13292,2026-06-23,enugu,Female,43,Basic,Monthly,USSD,11950,28.2,3,1,0,0
+UBL-12468,17/11/2025,Onitsha,Male,40,Basic,Monthly,Card,13500,82.8,10,3,0,1
+UBL-13254,2024-08-19,Nnewi,Female,36,Basic,Annual,Bank Transfer,12350,79.2,25,2,3,1
+UBL-13052,04/12/2025,Awka,Male,24,Premium,Monthly,POS,"N36,400",271.6,9,1,1,0
+UBL-13314,27/08/2025,asaba,male,28,Basic,Monthly,Bank Transfer,11950,64.4,13,0,0,1
+UBL-10382,2024-11-08,Onitsha,Male,,Basic,Annual,Card,"N14,100",94.8,22,1,1,1
+UBL-12584,05/02/2025,Onitsha,Female,29,standard,Quarterly,Card,20600,333.2,19,5,3,1
+UBL-10044,17/07/2025,awka,Male,36,Basic,Monthly,Bank Transfer,12600,,14,1,1,0
+UBL-12652,2025-02-16,Awka,Male,34,Standard,Monthly,USSD,23350,171.0,19,1,0,0
+UBL-10453,2025-08-03,Onitsha,Female,17,Premium,Quarterly,POS,39400,292.9,13,9,3,1
+UBL-12870,2025-05-15,Nnewi,Male,33,Standard,Quarterly,Bank Transfer,22000,205.9,16,1,1,0
+UBL-12314,25/01/2026,Awka,Male,17,Premium,Quarterly,POS,"N36,650",247.3,8,1,0,2
+UBL-10663,07/10/2025,Awka,Male,41,Standard,Quarterly,Card,19600,177.0,11,1,2,1
+UBL-12565,29/04/2026,Asaba,Male,22,Premium,Monthly,USSD,41150,347.5,5,0,0,3
+UBL-12563,2026-02-12,Asaba,Male,47,Basic,Monthly,USSD,12300,60.5,7,1,0,0
+UBL-11919,23 Apr 2026,Awka,Male,27,Basic,Monthly,Card,12900,32.5,5,0,2,0
+UBL-13227,2025-08-05,Asaba,male,17,Standard,Monthly,Card,22850,93.7,13,1,0,1
+UBL-11181,2025-11-30,Awka,Male,21,Standard,Monthly,,23300,290.7,10,1,1,0
+UBL-12104,2026-05-27,Enugu,Female,32,Standard,Monthly,Bank Transfer,21550,66.2,4,2,1,0
+UBL-10494,14/04/2026,Onitsha,Male,17,Basic,Monthly,Bank Transfer,"N12,150",93.3,5,8,4,1
+UBL-12905,2026-07-23,onitsha,Male,19,Standard,Monthly,Bank Transfer,21000,169.1,2,1,1,1
+UBL-11706,2025-04-17,Onitsha,Male,34,Standard,Monthly,Card,"N20,750",103.8,17,1,0,0
+UBL-13355,17/02/2025,Onitsha,Female,24,Standard,Quarterly,USSD,"N23,950",148.8,19,4,3,1
+UBL-11440,08/02/2026,Awka,F,45,Standard,Quarterly,Card,21650,213.3,7,1,2,0
+UBL-11144,2025-11-19,Onitsha,Female,35,Standard,Monthly,Bank Transfer,21000,132.2,10,2,1,0
+UBL-13386,2023-02-22,Onitsha,Female,17,Standard,Monthly,Card,"N19,350",161.7,43,0,0,0
+UBL-12132,2025-11-22,Enugu,Male,,standard,Monthly,USSD,"N20,500",116.5,10,0,0,0
+UBL-12988,2024-03-13,Onitsha,Female,,Standard,Monthly,USSD,"N22,650",35.2,30,5,2,0
+UBL-13331,24/12/2025,enugu,Male,24,Basic,Monthly,Bank Transfer,"N11,450",30.2,9,1,3,0
+UBL-11477,2026-01-11,Onitsha,Female,22,Standard,Annual,Bank Transfer,24000,186.9,8,2,0,1
+UBL-12760,04/03/2026,Nnewi,Female,17,Basic,Monthly,Bank Transfer,11450,36.6,6,3,2,0
+UBL-12313,2025-05-05,Onitsha,Female,17,Standard,Monthly,Card,20200,186.0,16,5,2,0
+UBL-12604,2025-05-12,Nnewi,Female,34,Basic,Monthly,Card,"N12,100",55.2,16,0,0,1
+UBL-12813,2025-11-30,Onitsha,Male,24,Standard,Monthly,Bank Transfer,22950,166.7,10,2,3,0
+UBL-11813,06/08/2026,Enugu,Male,25,Premium,Quarterly,POS,"N42,350",536.8,1,0,1,1
+UBL-10066,2025-10-30,Onitsha,Female,39,Standard,Monthly,Bank Transfer,"N20,800",262.2,11,2,1,2
+UBL-10459,01/02/2022,Awka,Male,22,Standard,Annual,Bank Transfer,"N20,400",164.9,55,0,0,1
+UBL-12953,14/08/2025,Nnewi,Female,17,Basic,Quarterly,Bank Transfer,12900,64.7,13,2,1,1
+UBL-12924,2025-02-08,NNEWI,Female,30,Basic,Quarterly,POS,13000,55.2,19,2,2,0
+UBL-13541,2025-03-24,Enugu,Female,31,Premium,Quarterly,Bank Transfer,36800,239.1,18,2,1,0
+UBL-10631,2026-07-26,Onitsha,Female,23,Basic,Quarterly,Bank Transfer,12600,77.0,2,5,3,0
+UBL-12238,2026-03-13,Onitsha,Male,31,Premium,Quarterly,Bank Transfer,"N35,500",236.8,6,2,1,0
+UBL-11925,2023-12-14,Enugu,female,36,Basic,Annual,Bank Transfer,13300,59.6,33,2,2,0
+UBL-10988,2026-05-11,Onitsha,male,31,Standard,Monthly,Card,"N23,150",50.7,4,4,3,0
+UBL-10944,14/03/2026, Awka ,Female,41,Standard,Quarterly,POS,19750,154.9,6,2,2,2
+UBL-12193,2025-08-25,Nnewi,Female,27,Basic,Monthly,POS,12600,31.3,13,1,1,1
+UBL-13015,2026-02-13,Awka,Male,34,Premium,Quarterly,Bank Transfer,36700,440.1,7,0,0,3
+UBL-12519,05 Nov 2025,Onitsha,M,34,Basic,Monthly,POS,12750,29.4,10,4,3,1
+UBL-12622,2025-05-13,Awka,Female,30,standard,Monthly,Bank Transfer,22100,48.8,16,2,1,1
+UBL-11313,2025-07-23,Onitsha,female,19,standard,Monthly,Card,19650,96.1,14,3,1,0
+UBL-11375,2023-11-06,Nnewi,Male,40,Premium,Quarterly,USSD,38200,391.3,34,0,0,0
+UBL-11449,11 Jan 2026,Enugu,Male,20,Standard,Monthly,,"N20,700",134.0,8,2,2,1
+UBL-10327,2024-05-04,Onitsha,Female,,Basic,Monthly,Bank Transfer,12150,89.8,28,1,2,0
+UBL-13124,14/03/2024,Nnewi,Male,19,Standard,Monthly,Bank Transfer,"N19,850",197.0,30,2,0,0
+UBL-10325,2025-02-21,enugu,Female,18,Premium,Quarterly,Bank Transfer,38400,1269.7,19,3,1,1
+UBL-12687,05 Jun 2025,Enugu,Female,24,Basic,Monthly,USSD,10800,67.8,15,1,1,2
+UBL-11052,27/05/2026,Enugu,Male,54,Standard,Annual,Bank Transfer,22650,151.1,4,0,0,0
+UBL-11633,2023-07-16,Asaba,Male,46,Premium,Monthly,Bank Transfer,40750,200.2,38,1,1,1
+UBL-10679,2025-10-03,ASABA,male,33,Basic,Quarterly,POS,10950,73.0,11,0,2,0
+UBL-10659,03/12/2023,Nnewi,Male,36,Standard,Quarterly,,21500,100.5,33,2,2,1
+UBL-10501,26/01/2026,Nnewi,Male,40,Basic,Monthly,USSD,13450,51.8,8,3,0,2
+UBL-13502,03/10/2024,ONITSHA,Male,31,Standard,Quarterly,Bank Transfer,22450,130.9,23,7,4,0
+UBL-11164,2025-09-03,Awka,Female,50,Basic,Quarterly,Card,"N13,150",77.8,12,3,1,1
+UBL-12523,2025-08-19, Onitsha ,female,27,Basic,Quarterly,POS,11750,73.7,13,3,2,0
+UBL-10905,2025-02-05,Onitsha,F,27,Standard,Monthly,Bank Transfer,"N21,950",38.0,19,1,1,0
+UBL-11300,2024-12-21,Enugu,Female,26,Basic,Monthly,Bank Transfer,"N12,000",55.1,21,1,1,0
+UBL-10674,2024-10-21,Onitsha,Male,26,Basic,Monthly,Bank Transfer,12550,104.4,23,2,2,0
+UBL-10002,01 Feb 2025,Awka,Male,34,Basic,Quarterly,POS,12650,34.7,19,0,0,4
+UBL-12855,17 Jul 2025,Awka,Male,,Basic,Quarterly,Bank Transfer,11450,26.1,14,1,0,1
+UBL-10770,2025-07-14,Onitsha,Female,31,Standard,Quarterly,USSD,22350,62.5,14,1,1,0
+UBL-13262,19/03/2026,Awka,F,41,Standard,Quarterly,USSD,"N23,350",110.0,6,0,1,1
+UBL-13133,2025-08-25,Awka,Male,17,Basic,Monthly,USSD,12000,52.4,13,1,4,2
+UBL-12343,2025-11-10,Nnewi,M,24,Basic,Annual,Card,12400,32.2,10,4,5,1
+UBL-12031,14/01/2025,onitsha,Female,40,Standard,Monthly,Card,20350,161.2,20,4,2,0
+UBL-11319,30/04/2025,Onitsha,Male,25,Basic,Annual,Card,13600,48.0,17,3,1,1
+UBL-11522,2024-02-17,Onitsha,Female,36,Basic,Monthly,USSD,"N12,150",86.7,31,1,1,2
+UBL-12713,2025-04-26,Awka,Female,37,Basic,Monthly,POS,12950,57.6,17,2,2,2
+UBL-12217,2025-11-05,Onitsha,Male,44,Basic,Monthly,Card,12700,52.6,10,3,2,4
+UBL-12667,2025-03-24,Nnewi,female,,Premium,Monthly,Bank Transfer,40600,736.3,18,0,3,1
+UBL-10264,04/04/2024,Nnewi,Male,34,Standard,Quarterly,Bank Transfer,"N24,800",143.6,29,2,1,0
+UBL-11540,2025-08-03,asaba,Female,32,Basic,Monthly,Card,"N13,300",68.9,13,0,1,0
+UBL-11465,2025-11-22, Onitsha ,Female,43,Standard,Annual,Bank Transfer,23350,93.0,10,2,0,1
+UBL-11860,2025-12-16,Nnewi,male,30,Standard,Monthly,Bank Transfer,24550,153.0,9,2,3,0
+UBL-10144,2024-04-20,Asaba,F,26,Standard,Quarterly,Card,24950,137.7,29,2,0,2
+UBL-10933,2025-04-24,Awka,Female,37,Basic,Quarterly,USSD,"N12,350",57.1,17,0,2,0
+UBL-12564,2024-10-16,Awka,Male,43,Premium,Annual,Bank Transfer,40200,76.0,23,0,0,0
+UBL-13024,2025-04-10,Onitsha,Female,37,Standard,Quarterly,Card,23700,209.4,17,5,1,2
+UBL-11777,22/01/2026,Enugu,Female,35,Basic,Quarterly,USSD,"N10,150",62.3,8,1,1,0
+UBL-13542,2025-03-05,Enugu,Female,30,Basic,Quarterly,Card,"N12,500",53.0,18,0,1,0
+UBL-12753,2025-06-26,Onitsha,Female,36,Standard,Annual,POS,"N20,200",140.5,15,1,0,3
+UBL-11294,2025-11-13,Asaba,Female,26,Basic,Monthly,Card,12200,43.2,10,2,1,1
+UBL-13242,30/11/2024,Onitsha,Female,48,Premium,Annual,Bank Transfer,37850,111.2,22,4,1,1
+UBL-10226,26/11/2025,Enugu,Female,35,Standard,Quarterly,Bank Transfer,23250,123.5,10,0,2,0
+UBL-10903,2026-04-04,Enugu,Female,30,Premium,Monthly,Card,37150,186.2,5,1,1,0
+UBL-12469,20/01/2026,Onitsha,male,38,premium,Monthly,USSD,37700,655.3,8,3,1,0
+UBL-13194,2025-04-29,Awka,Female,39,Basic,Quarterly,Card,"N12,550",72.1,17,0,0,0
+UBL-10999,2025-05-15,Awka,Female,21,Standard,Monthly,Card,22200,87.2,16,1,0,0
+UBL-10656,2024-09-13,AWKA,Male,29,Premium,Monthly,Card,37900,572.4,24,4,1,2
+UBL-11339,25/05/2025,Onitsha,Male,22,Standard,Monthly,USSD,20650,176.1,16,4,3,0
+UBL-10098,2022-11-26,onitsha,Male,37,Basic,Quarterly,,12000,138.4,46,1,1,0
+UBL-12360,15 Jun 2026,Onitsha,Female,29,Basic,Monthly,Card,14000,21.9,3,5,4,0
+UBL-13450,11/06/2025,Nnewi,Female,,Premium,Quarterly,POS,"N37,600",157.4,15,0,1,1
+UBL-11348,2026-02-08,Awka,female,20,Basic,Quarterly,POS,12500,,7,2,2,1
+UBL-11059,21/03/2024,Awka,Male,24,Premium,Monthly,Card,"N41,800",264.7,30,1,2,0
+UBL-11036,13/04/2025,Awka,Female,20,Standard,Quarterly,Card,"N20,800",84.0,17,2,2,0
+UBL-12125,21/05/2026,Onitsha,Female,27,Basic,Monthly,Card,"N12,550",41.9,4,1,1,1
+UBL-10591,29 Jun 2024, Onitsha ,Male,18,Standard,Monthly,Bank Transfer,21050,143.5,27,3,2,0
+UBL-13170,2026-08-15,Onitsha,Female,36,Standard,Monthly,Card,"N23,300",84.2,1,2,0,0
+UBL-10512,2025-12-21,Enugu,Female,22,Premium,Quarterly,Card,42800,369.6,9,2,0,1
+UBL-11012,2025-10-03,Awka,Female,20,Premium,Quarterly,Card,39000,167.2,11,0,0,0
+UBL-11905,2025-12-06,enugu,Female,34,Basic,Annual,Bank Transfer,"N13,400",66.4,9,0,2,0
+UBL-12938,2025-07-12,Awka,Female,32,Premium,Monthly,Card,36100,127.2,14,1,2,0
+UBL-11389,23/07/2026,Asaba,Male,34,Standard,Monthly,USSD,"N19,150",185.6,2,2,2,2
+UBL-10314,2025-01-06, Onitsha ,Female,17,Standard,Monthly,Card,"N20,750",171.8,20,2,2,0
+UBL-13270,2025-11-30,awka,male,44,Standard,Monthly,Card,21550,246.8,10,1,0,0
+UBL-11997,21 Jan 2026,Awka,Female,30,Basic,Monthly,Card,"N12,350",23.5,8,0,0,1
+UBL-10472,19 Mar 2026,Onitsha,Male,29,Basic,Monthly,Bank Transfer,14200,40.3,6,2,1,0
+UBL-11690,2025-02-07,awka,Female,25,Standard,Monthly,Bank Transfer,22450,447.4,19,0,1,0
+UBL-13511,2024-11-03,Awka,Female,34,Standard,Monthly,USSD,"N19,900",296.0,22,0,1,0
+UBL-12487,2025-10-03,Onitsha,Male,37,Basic,Annual,Bank Transfer,11450,70.1,11,0,0,1
+UBL-10025,2025-08-03,Awka,Male,39,Basic,Monthly,Card,"N13,600",137.2,13,0,0,0
+UBL-10005,2026-02-04,Enugu,Female,17,Standard,Monthly,Bank Transfer,22200,250.0,7,2,1,0
+UBL-11597,2025-02-19,Onitsha,Male,32,Basic,Quarterly,POS,13150,51.8,19,2,2,4
+UBL-10868,2025-10-21,Onitsha,Female,35,Basic,Quarterly,Card,13400,88.7,11,1,1,2
+UBL-10754,18/02/2025,awka,female,39,Basic,Monthly,Bank Transfer,11500,32.8,19,1,0,0
+UBL-12093,2026-01-28,Nnewi,Male,27,Basic,Annual,Card,12400,14.9,8,1,2,0
+UBL-12599,2026-04-19,Asaba,Female,39,Standard,Quarterly,Card,"N23,650",67.3,5,0,1,0
+UBL-10804,2024-08-04,Nnewi,Male,24,Basic,Annual,Card,"N13,000",246.1,25,3,0,0
+UBL-13431,2022-08-20,Asaba,Female,31,Basic,Quarterly,Bank Transfer,"N12,900",29.1,49,1,0,3
+UBL-10099,28/02/2025, Awka ,Male,35,Standard,Monthly,USSD,24050,89.3,19,0,0,2
+UBL-10779,17/05/2026,ONITSHA,Male,21,Basic,Monthly,Bank Transfer,"N12,300",25.3,4,2,1,0
+UBL-13413,2026-04-08,Awka,Female,36,Basic,Annual,USSD,"N13,900",31.5,5,0,0,1
+UBL-11792,05/02/2024,Awka,Female,36,Premium,Quarterly,Card,"N37,800",440.6,31,3,2,0
+UBL-13330,2024-02-25,NNEWI,Male,22,Premium,Annual,Bank Transfer,39650,372.8,31,1,3,1
+UBL-11215,2025-10-16,Awka,Male,28,Standard,Quarterly,Bank Transfer,"N24,050",80.9,11,3,3,0
+UBL-12233,10/09/2025,Nnewi,Male,23,Basic,Annual,Bank Transfer,12350,40.1,12,4,2,2
+UBL-13522,2023-11-12,ONITSHA,male,29,basic,Quarterly,Card,13750,,34,2,2,1
+UBL-12740,03/09/2022,Awka,Female,25,Premium,Quarterly,USSD,38800,451.1,48,0,0,1
+UBL-11732,2025-05-12,NNEWI,Male,29,Basic,Monthly,Bank Transfer,"N13,450",82.4,16,1,0,0
+UBL-10228,16/07/2026,Nnewi,Male,40,Standard,Quarterly,USSD,22600,90.7,2,1,3,1
+UBL-11268,2025-08-28,AWKA,Male,17,basic,Annual,Bank Transfer,12700,18.8,13,2,1,0
+UBL-10794,2026-03-12,Nnewi,male,17,Basic,Monthly,POS,"N11,850",25.0,6,0,2,2
+UBL-10896,06/02/2026,Enugu,Male,17,Basic,Annual,Bank Transfer,"N12,300",87.5,7,1,0,0
+UBL-11165,2025-11-28,Nnewi,Female,25,Standard,Monthly,USSD,24700,46.9,10,3,0,0
+UBL-12443,30/12/2025,Nnewi,Female,33,Basic,Quarterly,Bank Transfer,"N13,450",96.1,9,2,3,0
+UBL-10330,2025-10-11,Awka,Female,22,Premium,Monthly,POS,36700,422.5,11,1,1,1
+UBL-12108,13 Jun 2024,Enugu,Female,38,Basic,Annual,Card,12650,21.1,27,2,0,2
+UBL-11975,2025-05-06, Onitsha ,Female,33,Standard,Monthly,Bank Transfer,24350,88.6,16,3,1,0
+UBL-10463,04/10/2024,Awka,Male,27,Standard,Monthly,USSD,"N21,700",217.4,23,1,2,0
+UBL-11068,10/01/2024,AWKA,Male,37,Basic,Monthly,Bank Transfer,12650,20.9,32,0,0,1
+UBL-12847,2025-10-12,Nnewi,Male,,Standard,Monthly,Card,21650,92.8,11,1,1,0
+UBL-13057,2022-01-20,Onitsha,Female,41,Basic,Monthly,USSD,"N11,850",26.9,56,2,1,1
+UBL-11744,2023-12-25, Onitsha ,Female,27,Basic,Monthly,Card,"N13,200",,33,3,5,1
+UBL-12121,2025-08-04,Onitsha,Male,35,Basic,Monthly,Bank Transfer,"N12,450",26.8,13,1,3,0
+UBL-11270,2025-01-12,Enugu,Female,25,Basic,Annual,Card,"N14,250",51.2,20,1,0,0
+UBL-12447,22 Nov 2025,onitsha,M,29,Premium,Annual,Bank Transfer,38550,259.5,10,4,0,0
+UBL-13323,2025-04-17,Enugu,Female,21,Standard,Monthly,POS,20300,57.2,17,1,1,2
+UBL-11655,08 Feb 2026, Onitsha ,Female,37,Standard,Monthly,USSD,"N23,650",209.9,7,4,3,1
+UBL-12109,15/06/2023,ONITSHA,F,,Basic,Monthly,Bank Transfer,"N11,600",35.7,39,3,0,0
+UBL-11454,2026-03-05,Awka,Male,32,Standard,Monthly,Card,20350,265.2,6,1,0,0
+UBL-13029,06 Nov 2024,Onitsha,Male,17,Standard,Monthly,,23100,135.6,22,3,1,0
+UBL-12460,2025-06-17,Nnewi,Female,26,Basic,Monthly,POS,12200,73.3,15,1,2,2
+UBL-11383,2026-02-06,Awka,Male,29,Basic,Monthly,Card,12000,33.5,7,1,1,0
+UBL-12409,09/01/2024,Awka,Male,39,standard,Annual,USSD,20000,109.6,32,2,3,0
+UBL-10205,2025-02-21,Nnewi,Male,30,standard,Monthly,POS,"N22,600",126.1,19,2,2,3
+UBL-13199,2024-03-10,Nnewi,female,33,Standard,Monthly,Card,"N22,100",37.5,30,2,0,0
+UBL-10751,04/10/2023,Awka,Female,25,Standard,Quarterly,Bank Transfer,"N24,900",92.0,35,0,0,0
+UBL-10935,27/02/2025,Awka,M,30,Basic,Quarterly,Bank Transfer,12750,44.2,19,1,2,1
+UBL-11546,2024-10-30,Awka,Female,27,Basic,Quarterly,Card,12850,42.0,23,3,1,0
+UBL-10940,2025-11-28,Onitsha,Male,32,Basic,Quarterly,Bank Transfer,"N13,050",68.5,10,4,4,1
+UBL-12920,11 Apr 2026,Enugu,Male,30,Standard,Monthly,Bank Transfer,"N21,850",62.0,5,1,0,0
+UBL-11413,2026-08-03,Enugu,Female,19,Basic,Monthly,Bank Transfer,"N13,950",57.8,1,1,2,0
+UBL-10393,2026-04-18, Nnewi ,Male,30,Basic,Annual,POS,11250,106.5,5,1,2,0
+UBL-10333,2025-04-07,Asaba,Male,46,standard,Monthly,Bank Transfer,"N22,400",190.4,17,0,0,1
+UBL-13415,20/01/2025,Onitsha,Female,40,Basic,Quarterly,Bank Transfer,12700,74.4,20,5,0,0
+UBL-13508,03/08/2025,Awka,Male,29,basic,Annual,Bank Transfer,13350,43.8,13,1,0,0
+UBL-11182,06/05/2025,Asaba,Female,30,Basic,Monthly,Bank Transfer,"N13,800",42.4,16,3,1,1
+UBL-13271,2025-08-28,Asaba,Female,35,Standard,Monthly,USSD,"N21,050",82.9,13,0,1,0
+UBL-10097,2026-05-06,Asaba,Female,32,Standard,Monthly,Bank Transfer,19250,,4,3,2,0
+UBL-11387,28/05/2026,Onitsha,Female,,Basic,Monthly,Bank Transfer,"N12,450",77.8,4,4,1,0
+UBL-10086,2026-01-27,Onitsha,Male,24,Standard,Monthly,Card,20050,130.3,8,3,1,0
+UBL-10997,2026-06-04,Enugu,Female,37,Basic,Monthly,USSD,11800,61.9,3,0,0,4
+UBL-11274,18/05/2024,Onitsha,Female,30,Premium,Monthly,,36900,281.3,28,1,0,0
+UBL-10787,2022-09-28,Enugu,Female,32,Basic,Monthly,USSD,"N13,200",49.9,48,0,0,0
+UBL-12978,2026-05-25,Awka,Female,26,Standard,Quarterly,,22050,,4,1,2,2
+UBL-11548,2025-06-10,Asaba,F,37,Basic,Quarterly,Card,"N13,900",99.8,15,2,1,0
+UBL-10614,2025-12-19,Asaba,Male,23,Standard,Monthly,POS,22000,41.9,9,1,3,1
+UBL-12788,2022-06-12,Enugu,Female,17,Basic,Monthly,Bank Transfer,12750,44.9,51,1,1,0
+UBL-10408,29/01/2025,Awka,Female,24,Basic,Quarterly,Bank Transfer,13250,99.4,20,1,1,1
+UBL-12780,2023-08-28,Awka,Female,46,Standard,Quarterly,Card,20150,,37,1,1,2
+UBL-11488,03/04/2026,asaba,Male,17,Basic,Monthly,USSD,"N13,100",29.8,5,2,1,0
+UBL-13442,24 Jan 2024,Awka,Male,19,Premium,Monthly,Bank Transfer,"N39,200",131.2,32,0,0,0
+UBL-11669,2024-12-09,Awka,Female,39,Standard,Monthly,Card,"N21,450",133.3,21,4,2,1
+UBL-11567,2024-07-17,Enugu,Male,24,Standard,Monthly,Card,25150,58.6,26,2,3,0
+UBL-13298,2025-06-21,Awka,Female,26,Basic,Monthly,Card,13350,21.2,15,3,1,1
+UBL-12709,18 Feb 2026,Onitsha,M,29,Basic,Quarterly,Bank Transfer,14700,25.4,7,6,1,0
+UBL-12766,16 May 2024, Awka ,Female,28,Basic,Quarterly,Card,11550,48.1,28,0,0,1
+UBL-11990,2025-10-07,Awka,Male,31,Standard,Quarterly,Card,24100,103.9,11,0,0,1
+UBL-12496,2023-08-27,Onitsha,Female,45,Basic,Quarterly,USSD,"N13,250",116.9,37,1,0,2
+UBL-12041,2024-08-12,Onitsha,Male,38,Basic,Quarterly,Bank Transfer,11600,153.7,25,3,4,0
+UBL-13027,2024-01-20,NNEWI,Female,21,Standard,Monthly,Bank Transfer,21850,192.4,32,0,1,1
+UBL-10505,27/05/2026, Awka ,Male,25,Standard,Annual,Card,22600,151.4,4,1,1,0
+UBL-11747,2026-05-25,awka,Female,28,Basic,Monthly,Card,13250,105.6,4,1,0,1
+UBL-12853,11/04/2025,ONITSHA,Female,17,Standard,Annual,USSD,20300,104.8,17,2,2,0
+UBL-10673,2026-04-30, Enugu ,female,38,Standard,Quarterly,Card,22600,209.3,5,1,2,2
+UBL-12074,20 Nov 2025,Awka,Male,26,Standard,Monthly,Bank Transfer,21850,164.8,10,4,3,0
+UBL-10671,06/02/2026,Awka,Male,30,Standard,Quarterly,Bank Transfer,19700,64.0,7,1,0,0
+UBL-12995,2026-06-21,Enugu,Female,17,Basic,Annual,Card,"N10,650",83.1,3,2,2,0
+UBL-10886,24 May 2026,Onitsha,Male,37,Basic,Monthly,Bank Transfer,11100,52.6,4,3,3,0
+UBL-10979,2025-08-18,Asaba,Female,32,Premium,Monthly,POS,39900,289.0,13,1,3,2
+UBL-13187,2024-12-29,awka,Male,19,Premium,Annual,USSD,42300,183.5,21,0,0,1
+UBL-12003,2025-08-28,Onitsha,Male,33,Standard,Quarterly,Card,"N19,700",55.9,13,3,1,1
+UBL-11360,24/08/2024,Asaba,female,29,Standard,Quarterly,Card,"N20,300",46.9,25,2,1,0
+UBL-13034,2024-10-05,Asaba,Male,52,Standard,Quarterly,POS,"N22,150",179.5,23,1,0,2
+UBL-10242,21/02/2025,Asaba,Female,18,Standard,Monthly,Card,22450,403.3,19,2,1,1
+UBL-12946,2024-03-08,ASABA,Male,17,Standard,Monthly,USSD,20650,128.8,30,0,0,2
+UBL-11923,19 Dec 2023,Nnewi,Female,44,Basic,Monthly,USSD,"N12,100",27.1,33,3,0,1
+UBL-11719,2023-01-11,awka,M,25,Basic,Quarterly,Bank Transfer,11800,43.0,44,4,1,2
+UBL-12245,2024-08-11,onitsha,Male,,Standard,Quarterly,Bank Transfer,"N24,700",59.6,25,3,1,0
+UBL-12423,15/05/2026,ONITSHA,Female,17,Standard,Monthly,Bank Transfer,"N19,200",51.8,4,3,0,0
+UBL-13013,2025-07-10,ASABA,Female,33,Premium,Quarterly,Bank Transfer,39300,490.1,14,4,2,1
+UBL-13075,15/01/2025,Asaba,Male,29,Basic,Quarterly,Bank Transfer,13450,127.0,20,4,3,0
+UBL-10294,2026-07-20,ONITSHA,Male,23,Basic,Monthly,Bank Transfer,12350,8.9,2,1,3,0
+UBL-10570,2025-06-16,Awka,Male,37,Standard,Monthly,,19550,164.7,15,1,1,2
+UBL-12497,28/04/2026,Awka,Male,32,Standard,Monthly,USSD,22200,159.9,5,2,2,0
+UBL-12876,2025-11-28,Awka,Male,39,Standard,Monthly,Bank Transfer,25350,278.7,10,0,1,0
+UBL-10450,25/04/2026,Onitsha,Male,20,Basic,Annual,Card,"N11,700",50.4,5,4,1,2
+UBL-11399,30 May 2024,Onitsha,Male,38,Standard,Quarterly,Bank Transfer,23250,434.9,28,3,1,1
+UBL-12195,2024-12-26,Nnewi,Female,31,Basic,Monthly,Card,12500,116.7,21,0,0,0
+UBL-11899,2025-03-05,Awka,Male,19,Standard,Annual,POS,"N22,250",197.9,18,1,1,2
+UBL-12841,22 Nov 2025,Awka,Male,20,Standard,Quarterly,Bank Transfer,21450,92.6,10,0,1,0
+UBL-13097,2024-04-05,Nnewi,Female,22,standard,Annual,Bank Transfer,22800,186.9,29,3,5,1
+UBL-11893,20/11/2025,Enugu,Female,25,Premium,Monthly,Bank Transfer,35250,121.5,10,1,4,0
+UBL-12815,2025-10-28,Nnewi,Male,23,Premium,Monthly,USSD,35400,257.0,11,2,0,0
+UBL-12844,10/03/2022,Awka,Female,28,Basic,Monthly,POS,12650,87.2,54,0,0,1
+UBL-11056,2025-09-23,asaba,Female,34,Basic,Monthly,Card,"N11,800",41.3,12,1,0,1
+UBL-11271,2025-12-24,ONITSHA,Male,25,Premium,Monthly,POS,"N41,600",217.2,9,4,5,3
+UBL-11625,2025-11-12, Enugu ,Male,36,standard,Monthly,Card,23200,74.1,10,2,0,0
+UBL-10134,2024-12-22,Onitsha,M,36,Basic,Annual,POS,12150,59.2,21,4,1,0
+UBL-11070,2026-01-18,Asaba,Male,23,Basic,Quarterly,USSD,13050,52.4,8,2,0,1
+UBL-11103,2024-12-22,Nnewi,Male,35,Basic,Monthly,USSD,11400,75.4,21,1,0,0
+UBL-10488,04/05/2025,Enugu,Male,,Basic,Monthly,Bank Transfer,"N10,850",74.3,16,1,2,2
+UBL-11830,2025-06-11,Awka,Female,,Standard,Monthly,POS,20200,118.8,15,2,4,1
+UBL-12006,2026-05-28,Onitsha,Male,41,Standard,Annual,Bank Transfer,22200,140.9,4,1,2,2
+UBL-10828,2022-06-08,Onitsha,M,38,Standard,Quarterly,Bank Transfer,23000,42.5,51,2,2,0
+UBL-13300,07/04/2025,Awka,Female,20,Premium,Quarterly,Bank Transfer,"N36,500",713.0,17,2,1,1
+UBL-11186,2023-11-16, Awka ,Female,38,Basic,Annual,Bank Transfer,11600,70.4,34,4,1,4
+UBL-12634,21/05/2026,Onitsha,Female,28,Standard,Monthly,USSD,"N22,200",107.8,4,3,0,1
+UBL-11434,27/09/2025,Asaba,Male,,Basic,Monthly,USSD,12850,28.5,12,1,1,1
+UBL-11646,18/09/2025,Awka,Female,24,Basic,Quarterly,Bank Transfer,11300,30.6,12,0,0,0
+UBL-13532,2025-04-03,Nnewi,Male,20,Basic,Monthly,Bank Transfer,12950,50.5,17,0,1,0
+UBL-10081,2025-07-30,Awka,Male,24,Basic,Monthly,,12450,28.1,14,1,2,2
+UBL-12579,08/10/2025,Awka,Male,47,Standard,Annual,Bank Transfer,"N21,250",100.3,11,0,3,1
+UBL-10061,2026-07-03,Nnewi,female,41,Premium,Quarterly,USSD,"N37,450",394.7,2,2,4,1
+UBL-10511,2025-02-09,Onitsha,M,23,Standard,Monthly,Card,23850,103.7,19,6,4,0
+UBL-10528,2025-08-19,Onitsha,Male,34,Basic,Monthly,USSD,"N14,100",,13,4,2,0
+UBL-10341,2023-10-27,Enugu,Male,36,Basic,Monthly,Bank Transfer,"N11,850",78.0,35,1,0,1
+UBL-12265,28 Sep 2024,Asaba,Male,22,Standard,Monthly,Bank Transfer,"N21,950",234.7,24,1,0,0
+UBL-13118,20 Jul 2026,Asaba,Female,26,Basic,Quarterly,Bank Transfer,12150,82.4,2,3,4,1
+UBL-11457,10/06/2024,awka,Female,37,Standard,Annual,Bank Transfer,"N21,250",89.9,27,0,1,2
+UBL-10176,08/03/2026,Enugu,Male,29,Standard,Quarterly,Card,22200,82.0,6,0,2,0
+UBL-12481,16/01/2024,Onitsha,Male,,Standard,Quarterly,Card,"N23,550",130.8,32,4,3,2
+UBL-12066,2025-12-18,Asaba,Female,34,Standard,Quarterly,Bank Transfer,20350,242.4,9,1,1,0
+UBL-13518,21/12/2022,Onitsha,Male,19,Basic,Quarterly,Bank Transfer,"N13,350",46.9,45,9,8,0
+UBL-12242,21/02/2026,Onitsha,Male,43,Premium,Monthly,Card,32550,375.3,7,3,0,2
+UBL-10284,04/05/2026,Onitsha,Male,29,Basic,Monthly,Bank Transfer,"N12,450",79.1,4,3,3,1
+UBL-11417,2026-02-11,Nnewi,female,33,Standard,Quarterly,Card,23350,74.4,7,1,2,0
+UBL-12123,12/05/2025, Enugu ,Female,27,Standard,Monthly,USSD,23500,,16,0,1,0
+UBL-13038,2022-03-11,Awka,Male,35,Standard,Monthly,Bank Transfer,18550,188.5,54,3,1,1
+UBL-11355,2024-02-14,Awka,Female,22,Standard,Monthly,Bank Transfer,19750,66.5,31,2,4,1
+UBL-12370,27 Sep 2025,Awka,Male,48,Premium,Monthly,USSD,"N40,800",206.4,12,0,1,0
+UBL-12277,22 Nov 2025,Nnewi,Female,29,Basic,Monthly,USSD,10550,93.4,10,1,0,1
+UBL-11532,15/05/2024,Onitsha,Female,44,Standard,Quarterly,Bank Transfer,"N20,500",24.7,28,1,1,1
+UBL-10404,2025-07-07,Awka,Female,23,Standard,Monthly,Bank Transfer,20750,,14,2,0,0
+UBL-10405,15 Jan 2026,Nnewi,Male,22,Standard,Monthly,Card,"N23,950",75.1,8,4,2,0
+UBL-10010,2025-06-07,Onitsha,Female,36,Standard,Monthly,USSD,22750,180.3,15,3,1,3
+UBL-10526,2026-04-08,Asaba,Male,40,Standard,Monthly,POS,"N20,200",121.0,5,1,1,2
+UBL-10893,2024-11-03,Nnewi,M,27,Standard,Monthly,USSD,21850,160.4,22,3,2,1
+UBL-13106,2026-01-15,Nnewi,Male,31,Standard,Monthly,Card,23700,51.1,8,0,0,1
+UBL-10765,2026-01-16,Enugu,male,43,Basic,Monthly,USSD,12700,139.0,8,1,1,0
+UBL-12157,2026-04-26,Nnewi,Male,,Premium,Monthly,Card,41300,469.8,5,1,0,2
+UBL-10691,24/08/2024,Enugu,Female,31,Standard,Quarterly,Bank Transfer,20700,228.6,25,0,0,1
+UBL-10882,2025-03-22,Awka,Male,42,Basic,Annual,Card,12800,9.8,18,1,1,2
+UBL-12734,28/01/2025,Onitsha,Female,35,Basic,Monthly,Bank Transfer,12300,30.6,20,4,4,1
+UBL-12452,2025-09-07,Asaba,Female,30,Basic,Annual,Bank Transfer,13200,159.8,12,4,7,1
+UBL-13110,2026-02-02,Asaba,Male,17,Basic,Annual,Card,"N12,000",92.2,7,0,3,0
+UBL-10625,2025-08-07,onitsha,Female,30,Standard,Annual,Card,23300,212.5,13,2,3,1
+UBL-12431,2026-06-11,Onitsha,Male,28,Standard,Annual,POS,"N27,150",85.8,3,5,1,2
+UBL-12072,09/10/2024,Asaba,Female,19,Standard,Monthly,USSD,22600,81.7,23,3,0,1
+UBL-13357,2025-05-07,Awka,Male,20,Premium,Monthly,Card,"N33,800",182.5,16,1,1,0
+UBL-11961,2023-09-19,Nnewi,Male,36,Premium,Quarterly,Bank Transfer,"N41,250",473.6,36,1,3,0
+UBL-13042,08/02/2025,Enugu,Female,,Premium,Annual,Card,"N37,550",255.6,19,1,1,0
+UBL-13009,28/01/2024,Asaba,Male,29,Standard,Quarterly,USSD,21350,49.4,32,0,0,1
+UBL-10977,25/10/2024,enugu,Male,17,Premium,Quarterly,Bank Transfer,38850,204.3,23,0,1,0
+UBL-10039,2025-12-30,Onitsha,Female,23,Basic,Monthly,Bank Transfer,13450,55.2,9,1,2,0
+UBL-10771,24/12/2025,Nnewi,Male,21,Standard,Annual,Card,24450,235.4,9,1,1,0
+UBL-12334,03 Mar 2026,Enugu,Female,37,Basic,Monthly,Bank Transfer,"N12,400",71.2,6,1,2,2
+UBL-13489,2025-10-30,Awka,male,39,Premium,Annual,USSD,"N43,250",163.1,11,1,1,0
+UBL-10844,24/10/2025, Asaba ,Male,24,Basic,Quarterly,POS,"N11,300",,11,2,2,0
+UBL-10091,21/12/2021,Nnewi,Female,25,Standard,Monthly,,"N23,150",145.8,57,1,1,1
+UBL-13319,2024-07-14,Onitsha,Female,17,Basic,Annual,Bank Transfer,11750,41.2,26,5,4,3
+UBL-13060,12/04/2025,Enugu,Female,28,Standard,Monthly,USSD,21200,51.0,17,3,2,1
+UBL-11960,21/12/2021,Nnewi,female,,Standard,Monthly,USSD,21300,153.5,57,3,3,1
+UBL-13335,2025-10-08, Asaba ,Male,18,Basic,Monthly,Card,12300,70.2,11,1,2,2
+UBL-10302,24/07/2026,Onitsha,Female,35,Basic,Annual,Card,12400,18.8,2,3,3,0
+UBL-11005,2025-09-25,Onitsha,Male,22,Standard,Monthly,USSD,"N23,500",93.9,12,1,1,1
+UBL-13317,2026-05-11,Nnewi,Female,40,Standard,Monthly,Bank Transfer,22700,222.1,4,2,4,0
+UBL-10292,2022-12-10,Enugu,Female,25,Basic,Quarterly,USSD,14700,36.1,45,1,3,2
+UBL-13014,2024-03-10,ENUGU,female,56,basic,Monthly,Bank Transfer,12200,38.1,30,4,3,0
+UBL-11219,15/06/2025,Nnewi,female,27,Standard,Monthly,USSD,24750,35.0,15,3,3,0
+UBL-12751,2026-04-04,Nnewi,Female,28,Standard,Quarterly,Bank Transfer,20000,50.6,5,1,1,0
+UBL-12164,2025-07-20,Enugu,Female,41,Standard,Quarterly,Card,"N24,100",50.7,14,2,0,0
+UBL-12454,2022-06-10, Onitsha ,Male,35,Standard,Monthly,Card,"N20,650",254.6,51,3,0,0
+UBL-10497,2025-02-28,Onitsha,Male,25,Basic,Monthly,Card,"N12,200",37.4,19,5,4,0
+UBL-11842,2025-10-17,Enugu,Female,40,Standard,Monthly,Card,"N18,900",75.4,11,1,0,1
+UBL-13195,2026-04-22,Nnewi,Female,,Premium,Monthly,Bank Transfer,"N41,300",356.5,5,2,5,0
+UBL-10229,2026-08-30,onitsha,Female,22,Premium,Annual,POS,38450,224.5,1,7,2,0
+UBL-12868,22/07/2025,Awka,Male,33,Basic,Quarterly,Bank Transfer,13600,49.1,14,0,1,0
+UBL-11704,2026-07-20,Nnewi,Female,32,Basic,Monthly,USSD,"N13,300",57.9,2,3,2,0
+UBL-11008,2025-02-09,Asaba,F,26,Standard,Annual,Bank Transfer,23700,,19,3,0,0
+UBL-10746,2026-02-16,Asaba,Male,39,Premium,Monthly,USSD,36800,430.8,7,1,4,1
+UBL-12051,05/04/2026,awka,Male,24,Basic,Quarterly,USSD,12500,,5,0,0,0
+UBL-12662,2025-03-24,ASABA,Female,36,Basic,Monthly,Bank Transfer,"N13,050",92.2,18,2,1,2
+UBL-10172,2025-02-19,Nnewi,Male,21,Basic,Monthly,Bank Transfer,14700,89.7,19,3,2,0
+UBL-11192,27/03/2024,awka,Female,41,Standard,Monthly,Bank Transfer,19400,115.7,30,0,0,1
+UBL-10818,2026-03-20, Onitsha ,female,32,Basic,Annual,Card,13700,126.9,6,3,1,4
+UBL-11648,2026-03-30,Enugu,Female,17,Basic,Annual,USSD,"N11,250",59.4,6,3,1,0
+UBL-10584,12 Feb 2025,Onitsha,Female,42,Standard,Monthly,USSD,20400,57.9,19,2,2,1
+UBL-11007,2025-02-16,Onitsha,Male,33,Basic,Annual,Card,12950,56.2,19,3,0,1
+UBL-11269,2025-12-22,Onitsha,Female,31,Standard,Annual,Bank Transfer,"N22,000",327.7,9,4,0,0
+UBL-13486,2026-06-24,Onitsha,Male,31,Standard,Quarterly,Card,21550,179.0,3,7,1,1
+UBL-13519,17/07/2026,Onitsha,Female,28,Standard,Annual,Bank Transfer,20400,83.4,2,4,5,3
+UBL-10340,14 Apr 2025,Nnewi,Female,37,Standard,Quarterly,USSD,23850,40.3,17,3,2,0
+UBL-12957,2025-10-03,Enugu,Female,46,Standard,Monthly,Card,22600,151.7,11,0,0,0
+UBL-11541,06/11/2022,Onitsha,Female,23,Premium,Monthly,Bank Transfer,41350,,46,0,1,0
+UBL-11610,21/12/2024,Enugu,Male,17,Standard,Quarterly,POS,22700,176.4,21,1,1,1
+UBL-13030,05 Oct 2023,Awka,male,30,Basic,Monthly,USSD,12650,26.3,35,1,0,0
+UBL-13208,2025-09-13, Awka ,Male,23,Basic,Quarterly,Bank Transfer,11250,38.1,12,1,1,0
+UBL-12318,2025-08-20,Awka,Female,27,Premium,Quarterly,USSD,39100,146.2,13,3,1,1
+UBL-10068,2025-01-15,Nnewi,Female,,Standard,Monthly,Bank Transfer,20450,104.7,20,2,2,1
+UBL-12594,17/08/2025,Nnewi,Female,41,Premium,Monthly,Card,38800,218.3,13,1,2,0
+UBL-10446,2026-04-21,Asaba,Female,17,Standard,Monthly,Card,23050,82.6,5,0,1,0
+UBL-12426,2025-06-29,Awka,Female,29,Basic,Quarterly,Card,12850,77.2,15,0,0,2
+UBL-13429,2025-06-20,Nnewi,F,44,Standard,Monthly,USSD,17650,316.5,15,3,0,0
+UBL-11049,08 Jan 2026,Enugu,Male,,Basic,Monthly,Bank Transfer,11100,40.9,8,0,1,0
+UBL-12274,04 Oct 2025,nnewi,Male,32,premium,Annual,USSD,37900,359.7,11,1,0,2
+UBL-13114,2025-12-11,Enugu,Female,40,Basic,Monthly,USSD,10600,63.0,9,2,1,0
+UBL-12525,06/08/2025,Onitsha,female,19,Basic,Annual,Card,"N12,150",60.7,13,5,3,0
+UBL-10990,29/10/2025,Enugu,Male,25,Standard,Annual,USSD,19400,33.7,11,1,2,0
+UBL-13544,04 Sep 2023,Onitsha,Female,37,Standard,Quarterly,Card,"N22,300",321.4,36,1,3,1
+UBL-13373,2024-08-04,nnewi,male,28,Basic,Monthly,Card,"N12,350",74.7,25,3,1,1
+UBL-12489,2025-08-29,Onitsha,Female,42,Premium,Annual,Bank Transfer,39200,335.1,13,3,4,0
+UBL-10171,2026-04-15,Nnewi,Female,39,Basic,Monthly,USSD,14050,42.1,5,4,2,0
+UBL-11643,26/12/2025,Awka,Female,27,Standard,Quarterly,USSD,"N22,800",154.9,9,0,0,0
+UBL-12315,2026-01-14,Enugu,female,25,Basic,Monthly,Bank Transfer,13100,40.9,8,1,1,1
+UBL-12500,2026-07-09,AWKA,Male,17,Standard,Annual,USSD,"N25,300",103.3,2,1,1,1
+UBL-13481,04/12/2025,Asaba,Male,25,Standard,Quarterly,Bank Transfer,23950,29.0,9,2,1,0
+UBL-11255,20 May 2025,Nnewi,Female,,Basic,Quarterly,USSD,13050,67.4,16,2,0,0
+UBL-12196,03/05/2025,Onitsha,Male,25,Standard,Monthly,USSD,"N21,850",142.1,16,6,4,1
+UBL-11089,22/02/2026,Enugu,Male,,Premium,Quarterly,Bank Transfer,42300,378.5,7,3,3,0
+UBL-11897,2026-08-03,Onitsha,Male,28,Standard,Quarterly,USSD,20400,,1,3,0,2
+UBL-11595,10 Jan 2026,AWKA,Female,25,Standard,Quarterly,Card,23350,149.3,8,1,0,1
+UBL-11639,2025-11-17,onitsha,Male,30,Standard,Monthly,POS,23350,87.7,10,3,5,2
+UBL-11768,2026-01-06,ENUGU,Female,27,Standard,Annual,POS,"N20,700",163.6,8,0,1,2
+UBL-11327,2025-07-23,Nnewi,Male,34,Basic,Quarterly,Bank Transfer,12800,109.7,14,3,2,0
+UBL-12077,2025-08-20,Onitsha,male,41,Premium,Quarterly,Bank Transfer,36800,223.1,13,3,0,0
+UBL-11607,2025-07-30,ONITSHA,Male,29,Basic,Monthly,USSD,13000,47.5,14,3,5,1
+UBL-11869,2025-06-25,Awka,Female,36,Basic,Annual,Card,"N12,050",32.1,15,1,2,0
+UBL-10648,18/02/2023,Awka,Male,24,Standard,Quarterly,USSD,"N21,100",186.3,43,2,2,2
+UBL-13209,13/11/2025,asaba,F,43,Standard,Monthly,POS,"N20,550",72.8,10,0,0,0
+UBL-12679,2025-12-17, Asaba ,Female,43,Standard,Quarterly,Bank Transfer,20750,202.6,9,2,0,0
+UBL-12032,10 Nov 2023,Onitsha,Female,32,Basic,Monthly,POS,12150,98.9,34,3,1,2
+UBL-12929,2025-11-16,Enugu,Female,36,Premium,Monthly,Bank Transfer,32550,207.1,10,2,0,0
+UBL-13471,13 Jun 2025,Asaba,Female,,Premium,Monthly,Card,"N42,950",217.3,15,0,0,1
+UBL-10259,30/01/2026,Awka,Female,49,Standard,Annual,POS,22750,144.7,8,0,1,1
+UBL-10421,2026-08-13,Onitsha,Female,33,Basic,Quarterly,Card,"N14,200",18.7,1,3,4,0
+UBL-12522,30 Nov 2023,Enugu,Female,39,Basic,Quarterly,USSD,12950,32.9,34,0,0,0
+UBL-11359,2023-05-10,Awka,M,39,Standard,Quarterly,USSD,"N20,100",256.3,40,1,2,1
+UBL-10438,04/05/2026,Enugu,male,34,Standard,Monthly,USSD,"N21,900",,4,0,0,0
+UBL-12749,2025-11-08,Onitsha,Female,28,Standard,Monthly,Card,20800,174.5,10,1,3,1
+UBL-11160,03/03/2023,Onitsha,Female,21,Basic,Annual,USSD,12300,43.4,42,3,0,0
+UBL-12831,16/06/2026,Nnewi,Male,44,Basic,Quarterly,Bank Transfer,"N13,200",37.8,3,1,1,1
+UBL-12342,16/09/2024,Nnewi,Male,27,Basic,Annual,Bank Transfer,12500,40.3,24,3,0,0
+UBL-10548,2024-05-23,Awka,F,40,Basic,Quarterly,POS,10900,59.1,28,0,0,1
+UBL-10872,30/01/2025,Asaba,Female,33,Basic,Quarterly,Bank Transfer,"N14,250",,20,1,1,0
+UBL-13153,13/09/2024,Asaba,Female,45,Basic,Monthly,Card,11650,74.9,24,2,1,1
+UBL-10343,2026-05-20,Awka,Female,27,Standard,Monthly,Bank Transfer,"N20,750",69.6,4,1,1,0
+UBL-11369,04/09/2024,Onitsha,Male,24,basic,Quarterly,Bank Transfer,"N12,800",36.5,24,6,5,0
+UBL-10298,30/05/2025,Enugu,Female,32,Standard,Monthly,Bank Transfer,22850,204.2,16,0,0,0
+UBL-10428,2026-01-10,Onitsha,Female,27,Standard,Quarterly,Bank Transfer,21600,136.7,8,1,0,1
+UBL-10783,04/08/2025,NNEWI,Female,27,Basic,Annual,Card,"N13,050",57.5,13,1,0,2
+UBL-12297,2026-04-16,Awka,F,17,Standard,Monthly,USSD,23600,75.6,5,2,2,1
+UBL-13284,2023-09-19,Nnewi,M,36,Basic,Annual,Bank Transfer,12750,115.3,36,0,0,0
+UBL-11179,2024-05-21,Onitsha,Male,43,Basic,Annual,POS,13250,34.3,28,3,1,2
+UBL-12607,11/08/2023,Enugu,Male,38,Basic,Annual,POS,12650,46.0,37,1,1,3
+UBL-13141,2024-09-29,Onitsha,Male,43,Standard,Annual,Card,21750,73.3,24,1,0,2
+UBL-12437,2024-12-16,Onitsha,Male,26,Basic,Monthly,Bank Transfer,11800,14.1,21,2,0,0
+UBL-12577,2025-04-06,Awka,Male,26,Standard,Quarterly,Card,21400,103.6,17,0,1,0
+UBL-11128,2024-04-08,Awka,Female,32,Basic,Quarterly,Bank Transfer,10500,62.5,29,0,0,1
+UBL-13600,2025-11-22,Enugu,Male,17,Standard,Quarterly,Bank Transfer,"N22,050",92.7,10,1,3,2
+UBL-10055,2025-08-08,Nnewi,Female,17,Basic,Annual,USSD,13450,16.4,13,3,1,0
+UBL-13086,07/08/2024,Nnewi,M,29,Standard,Annual,Card,21000,170.6,25,2,1,1
+UBL-10394,2024-12-11,Asaba,female,23,Basic,Quarterly,Card,13100,56.5,21,0,4,0
+UBL-13548,2026-01-25,Awka,Male,,Basic,Monthly,Bank Transfer,11100,156.1,8,0,1,0
+UBL-13588,25 Dec 2025,ENUGU,Female,32,Premium,Quarterly,Bank Transfer,35950,236.3,9,1,2,1
+UBL-12581,2023-06-25,Asaba,male,17,Standard,Annual,Card,22250,83.0,39,3,2,1
+UBL-12027,30 Jun 2026,Onitsha,Male,33,Standard,Monthly,Bank Transfer,23850,172.6,3,4,1,0
+UBL-10975,28/05/2023,Asaba,Male,19,Premium,Annual,,38900,241.9,40,0,0,0
+UBL-10515,2024-04-18,Onitsha,Male,45,Basic,Monthly,Bank Transfer,"N12,900",22.1,29,2,0,1
+UBL-12712,2024-08-28,Onitsha,Male,21,Basic,Monthly,POS,"N14,450",48.0,25,1,1,0
+UBL-13266,2025-02-21,Enugu,Male,22,Basic,Monthly,USSD,11950,92.9,19,3,2,2
+UBL-10236,2025-10-11,Nnewi,Male,23,Basic,Quarterly,Card,"N12,800",89.7,11,3,5,0
+UBL-12775,2024-06-18,Onitsha,Female,17,Basic,Quarterly,USSD,"N12,750",112.2,27,3,1,0
+UBL-10031,2025-09-30,ONITSHA,Male,19,Basic,Monthly,Card,12900,39.0,12,2,4,0
+UBL-10495,2025-03-25,Enugu,Male,45,Premium,Quarterly,Bank Transfer,41700,502.1,18,0,1,0
+UBL-12213,2025-12-18,Enugu,female,28,Basic,Quarterly,Card,13950,74.1,9,0,0,1
+UBL-12590,2025-01-18,Enugu,Female,33,Basic,Monthly,USSD,"N12,550",34.4,20,0,0,0
+UBL-10987,13/09/2024,Asaba,male,34,Standard,Monthly,Bank Transfer,22800,116.9,24,1,1,0
+UBL-10654,06 Jan 2025,ENUGU,Male,19,Premium,Monthly,Card,40850,219.3,20,2,0,1
+UBL-11295,2024-12-25,Onitsha,Male,36,Standard,Quarterly,Card,22150,89.0,21,5,2,2
+UBL-11139,2025-07-12, Asaba ,Female,42,Premium,Quarterly,POS,41000,452.2,14,2,1,1
+UBL-13149,07/02/2025,Awka,Male,,Premium,Monthly,Bank Transfer,36300,332.9,19,3,4,0
+UBL-11418,05 May 2025,Enugu,Male,23,Standard,Annual,USSD,21000,177.8,16,1,1,0
+UBL-10853,06/08/2024,Awka,Male,17,Standard,Monthly,Bank Transfer,21800,102.8,25,1,2,0
+UBL-12703,2026-03-14,Onitsha,Male,38,Basic,Monthly,Card,14300,41.7,6,5,4,0
+UBL-11426,2025-03-17,Onitsha,Male,19,Basic,Monthly,Bank Transfer,13100,62.7,18,5,0,0
+UBL-12589,26 Mar 2023,Onitsha,female,33,Standard,Monthly,Card,20600,,42,3,3,0
+UBL-11265,2020-11-22,Onitsha,Female,51,Basic,Quarterly,Bank Transfer,11100,54.0,70,1,1,1
+UBL-13256,10/07/2024,Enugu,Male,43,Basic,Monthly,POS,13550,42.2,26,1,1,1
+UBL-11279,15/03/2025,Onitsha,Female,19,Premium,Monthly,USSD,39800,135.1,18,2,1,0
+UBL-11968,2023-07-22,Awka,Female,35,Premium,Monthly,USSD,39150,514.8,38,0,1,2
+UBL-13503,2026-04-23,Asaba,Female,17,Basic,Annual,Card,"N12,700",44.1,5,0,0,1
+UBL-11729,2024-05-16,Nnewi,Female,30,basic,Annual,Bank Transfer,13100,19.8,28,2,3,2
+UBL-12083,2024-06-22,Onitsha,Female,43,Standard,Quarterly,Bank Transfer,21800,70.9,27,3,5,0
+UBL-12485,2025-10-24,Nnewi,Female,41,Basic,Monthly,USSD,12350,14.8,11,2,1,2
+UBL-10589,2025-05-09,Onitsha,male,30,Premium,Annual,Bank Transfer,"N39,650",267.1,16,3,5,0
+UBL-13540,2025-11-28,Awka,Male,23,Premium,Annual,Card,"N44,750",213.8,10,0,0,0
+UBL-11034,2026-03-30,Awka,M,41,standard,Monthly,POS,20800,113.3,6,0,1,1
+UBL-12511,2025-10-12,Onitsha,Female,50,standard,Monthly,Card,18600,107.2,11,4,4,1
+UBL-12720,2025-05-19,Onitsha,Female,27,Standard,Annual,USSD,22350,135.7,16,1,1,0
+UBL-11289,2026-04-06,Nnewi,Male,43,Standard,Monthly,Card,24150,33.5,5,1,0,0
+UBL-11309,2025-12-19,Awka,Male,19,Standard,Monthly,USSD,"N21,650",233.4,9,1,0,0
+UBL-10439,13/09/2023,Onitsha,Male,22,Premium,Quarterly,Card,39850,422.6,36,5,1,1
+UBL-11816,05/03/2023,Onitsha,F,,Standard,Annual,Card,21150,71.8,42,6,2,1
+UBL-13316,2026-04-03,Awka,Female,28,Basic,Monthly,Bank Transfer,12750,75.1,5,1,0,0
+UBL-11509,2024-11-17,Enugu,Male,47,Standard,Quarterly,Card,"N21,400",73.8,22,0,1,1
+UBL-11661,28/02/2025, Onitsha ,Male,37,Standard,Monthly,USSD,22500,81.7,19,3,0,1
+UBL-12741,2025-10-11,Onitsha,Female,,Premium,Monthly,USSD,33300,468.5,11,4,1,0
+UBL-13402,22/07/2025,Asaba,Male,42,Basic,Monthly,Bank Transfer,13150,38.3,14,0,1,2
+UBL-10196,19/07/2026,Onitsha,Female,23,Basic,Monthly,Bank Transfer,"N11,350",53.8,2,3,1,1
+UBL-13512,2025-03-17,Onitsha,Male,32,Basic,Annual,Card,11950,26.1,18,3,2,0
+UBL-11504,04/07/2024,Enugu,Female,32,Basic,Monthly,Bank Transfer,11150,46.9,26,2,1,0
+UBL-10789,2024-09-22,Onitsha,Female,41,Premium,Annual,Bank Transfer,36250,279.7,24,3,1,0
+UBL-10796,30/10/2024,Awka,Male,33,Basic,Annual,Card,"N11,200",48.6,23,1,0,1
+UBL-12510,2024-05-09,Nnewi,Male,26,Premium,Annual,USSD,"N38,850",500.0,28,1,1,1
+UBL-13178,2024-12-27,Awka,Female,,Basic,Monthly,USSD,12050,63.9,21,0,0,0
+UBL-10562,29/01/2025,Onitsha,Female,17,Standard,Annual,Card,19650,,20,4,3,1
+UBL-10028,23/08/2025,Onitsha,Male,20,Premium,Monthly,USSD,40400,154.6,13,2,2,0
+UBL-12011,27/02/2025,Onitsha,female,38,Standard,Monthly,Card,25750,61.2,19,3,2,1
+UBL-12666,26/09/2025,Enugu,Male,61,Basic,Quarterly,Bank Transfer,"N13,150",,12,2,4,0
+UBL-13167,2024-03-19,Asaba,Male,32,Premium,Monthly,Card,35100,391.8,30,0,0,0
+UBL-10937,03/12/2024,Awka,male,27,Premium,Quarterly,USSD,43300,365.4,21,0,0,1
+UBL-11841,2025-03-03,Onitsha,Male,17,Premium,Monthly,Bank Transfer,41300,249.8,18,2,1,0
+UBL-11736,2022-07-06, Awka ,Male,33,Standard,Monthly,Card,23350,163.8,50,1,0,2
+UBL-11763,2024-06-08,Enugu,F,43,Premium,Monthly,Card,"N37,750",250.3,27,0,0,0
+UBL-10871,2025-07-07,Asaba,Male,19,Basic,Monthly,USSD,"N12,900",,14,3,3,0
+UBL-10220,10/10/2025,Onitsha,Male,29,Standard,Monthly,USSD,21200,34.5,11,7,5,1
+UBL-11811,2023-08-13,awka,Male,38,Standard,Monthly,Bank Transfer,"N22,900",133.4,37,4,6,1
+UBL-12781,2024-07-13,enugu,Male,25,Standard,Monthly,POS,20900,164.2,26,3,0,2
+UBL-10219,16/04/2026,Awka,Male,33,Basic,Annual,POS,11850,29.6,5,0,2,1
+UBL-10168,2024-12-07,Onitsha,male,34,Standard,Monthly,Card,26900,262.3,21,1,1,1
+UBL-11267,2025-06-24,Awka,Male,37,Premium,Monthly,,39250,438.7,15,1,0,0
+UBL-10237,2026-02-27,Awka,Male,30,Standard,Monthly,USSD,22100,191.1,7,0,0,2
+UBL-12706,2024-06-25,asaba,Female,37,Basic,Quarterly,USSD,"N13,900",70.0,27,4,2,0
+UBL-11617,2021-04-21,Nnewi,Male,27,Standard,Quarterly,USSD,"N22,650",117.0,65,2,1,0
+UBL-11884,2026-01-03,Onitsha,Female,37,Standard,Quarterly,Bank Transfer,"N21,400",204.3,8,5,3,0
+UBL-13525,2025-06-20,Awka,Female,31,Standard,Monthly,Bank Transfer,21450,57.0,15,1,3,2
+UBL-12586,2025-05-16,Onitsha,Male,35,Standard,Annual,Card,23700,83.9,16,3,1,0
